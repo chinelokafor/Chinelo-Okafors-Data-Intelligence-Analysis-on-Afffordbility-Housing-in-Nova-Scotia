@@ -33,6 +33,7 @@ Housing affordability is a growing concern in Canada with rising home prices, in
 - Updated quarterly based on Bank of Canada and mortgage lender rates.
 
 5. **Housing Supply**
+   
 – The number of new housing units built annually, assessing the adequacy of the supply to meet growing demand.
 - Target: Increase the rate of housing construction in high-demand areas.
 - Measured annually through real estate transaction and construction permit data.
