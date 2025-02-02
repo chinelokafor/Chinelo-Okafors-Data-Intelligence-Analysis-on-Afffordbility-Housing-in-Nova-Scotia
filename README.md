@@ -4,7 +4,7 @@
 ## Executive Summary
 Housing affordability is a growing concern in Canada with rising home prices, increasing rent burdens and challenging mortgage conditions creating barriers for many individuals and families seeking stable housing. This project utilizes modern data analysis tools including Python, Tableau and various statistical methods to explore housing affordability trends across different Canadian regions. The primary focus will be on factors such as home prices, rent-to-income ratios, vacancy rates and mortgage rates with the goal of providing actionable insights for policymakers, housing developers and stakeholders to address the housing affordability crisis.
 
-[Read detailed background information here] (https://github.com/chinelokafor/Term-Project/blob/main/Background.md)
+[Read detailed background information here](https://github.com/chinelokafor/Term-Project/blob/main/Background.md)
 
 ## Key Performance Indicators (KPIs)
 
