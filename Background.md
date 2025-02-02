@@ -1,5 +1,5 @@
 # Understanding Housing Affordability: A Critical Analysis
-* A Decision intelligence Analysis of Housing Affordability
+*A Decision intelligence Analysis of Housing Affordability*
 
 ## Problem Context
 Housing affordability has become one of the most urgent issues in many parts of the world, particularly in developed countries. The rising cost of housing, combined with stagnant wages and increasing levels of household debt, has made it increasingly difficult for many individuals and families to access affordable housing. In Canada for instance, the average price of homes has increased significantly over the last decade while wages have not kept pace.
