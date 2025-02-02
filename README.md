@@ -10,9 +10,9 @@ Housing affordability is a growing concern in Canada with rising home prices, in
 
 1. **Average House Prices** 
 
- –  Trends in home prices across various regions and their relationship with local economic factors.
- -	Target: Monitor annual price changes to identify affordability shifts.
- -	Measured quarterly based on regional data from Statistics Canada and other sources.
+  – Trends in home prices across various regions and their relationship with local economic factors.
+  -	Target: Monitor annual price changes to identify affordability shifts.
+  -	Measured quarterly based on regional data from Statistics Canada and other sources.
   
 2. **Rent-to-Income Ratio**
 
