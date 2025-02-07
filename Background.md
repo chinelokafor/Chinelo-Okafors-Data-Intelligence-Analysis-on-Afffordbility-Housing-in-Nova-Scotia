@@ -2,31 +2,32 @@
 *A Decision intelligence Analysis of Housing Affordability*
 
 ## Problem Context
-Housing affordability has become one of the most urgent issues in many parts of the world, particularly in developed countries. The rising cost of housing, combined with stagnant wages and increasing levels of household debt, has made it increasingly difficult for many individuals and families to access affordable housing. In Canada for instance, the average price of homes has increased significantly over the last decade while wages have not kept pace.
+Housing affordability has become one of the most urgent issues in many parts of the world, particularly in developed countries.<mark>Cite</mark> The rising cost of housing, combined with stagnant wages and increasing levels of household debt, has made it increasingly difficult for many individuals and families to access affordable housing. In Canada for instance, the average price of homes has increased significantly over the last decade while wages have not kept pace.<mark>Cite</mark>
 
-The challenge of housing affordability is exacerbated by various interconnected factors. Rapid urbanization has driven demand for housing, particularly in major cities, causing property prices to rise sharply. At the same time, supply shortages, zoning restrictions and high construction costs have limited the availability of affordable housing. Moreover, factors like interest rates, income inequality and changing demographics further complicate the issue. 
-This analysis focuses on understanding the factors influencing housing affordability such as market dynamics, government policies and socioeconomic disparities. It will also incorporate a range of data sources and methodologies to provide a comprehensive analysis of housing affordability trends in Canada, particularly in light of ongoing socioeconomic and policy changes. Without addressing these issues, the housing affordability crisis risks deepening social inequality and limiting economic mobility for many Canadians.
+The challenge of housing affordability is exacerbated by various interconnected factors.<mark>Cite</mark> Rapid urbanization has driven demand for housing, particularly in major cities, causing property prices to rise sharply. At the same time, supply shortages, zoning restrictions and high construction costs have limited the availability of affordable housing. Moreover, factors like interest rates, income inequality and changing demographics further complicate the issue. 
+This analysis focuses on understanding the factors influencing housing affordability such as market dynamics, government policies <mark>this will be hard to quantify</mark> and socioeconomic disparities. It will also incorporate a range of data sources and methodologies to provide a comprehensive analysis of housing affordability trends in Canada, particularly in light of ongoing socioeconomic and policy changes. Without addressing these issues, the housing affordability crisis risks deepening social inequality and limiting economic mobility for many Canadians.
 
 ## Significance of the Study
 This analysis is important for several reasons:
-1.	Housing Crisis: Canada faces a significant housing affordability challenge with home prices increasing faster than household incomes. Understanding the regional variations in affordability is crucial for addressing this issue.
-2.	Economic Impacts: Housing affordability directly impacts the broader economy, affecting consumer spending, savings and employment opportunities. The affordability crisis is also linked to social instability and increased poverty rates.
-3.	Government Policies: Many provincial and municipal governments are struggling to find effective policies that can tackle housing affordability. This study will explore the effectiveness of various government interventions and housing programs.
-4.	Data-Driven Solutions: Advances in data collection such as property transaction records and economic indicators, provide an opportunity for more informed policymaking and the identification of actionable insights to address housing affordability.
+1.	Housing Crisis: Canada faces a significant housing affordability challenge with home prices increasing faster than household incomes. Understanding the regional variations in affordability is crucial for addressing this issue.<mark>...because it allows for targeted investment and more informed policy decisions...</mark>
+2.	Economic Impacts: Housing affordability directly impacts the broader economy, affecting consumer spending, savings and employment opportunities. The affordability crisis is also linked to social instability and increased poverty rates.<mark>Cite</mark>
+3.	Government Policies: Many provincial and municipal governments are struggling to find effective policies that can tackle housing affordability. This study will explore the effectiveness of various government interventions and housing programs.<mark>I don't think this is your plan according to the suggested data sources, you don't have data for policies, and measuring effectiveness is likely to have many confounders</mark>
+4.	Data-Driven Solutions: Advances in data collection such as property transaction records and economic indicators, provide an opportunity for more informed policymaking and the identification of actionable insights to address housing affordability.<mark>Do you plan to support this somehow?</mark>
 
 ## Research Objectives
 This study aims to:
 1.	Analyze trends in housing affordability across different regions in Canada, with a focus on key urban centers.
-2.	Identify the socioeconomic, market and policy factors influencing housing affordability.
+2.	Identify the socioeconomic, market ~~and policy~~ factors influencing housing affordability.
 3.	Assess the relationship between housing affordability and other social indicators such as income inequality and population growth.
-4.	Develop predictive models to project future housing affordability under various market conditions and policy interventions.
-5.	Provide recommendations for policymakers and stakeholders to improve housing affordability with a focus on long-term solutions that promote both market stability and social equity.
+4.	Develop predictive models to project future housing affordability under various market conditions <mark>such as?</mark> ~~and policy interventions~~.
+5.	Provide recommendations for policy makers and stakeholders to improve housing affordability with a focus on long-term solutions that promote both market stability and social equity.
 
 ## Potential Datasets
 
 1.	Statistics Canada – Housing Market Indicators
     - Source: https://www150.statcan.gc.ca
     - Content: Provides data on home prices, rent, mortgage rates, and vacancy rates.
+    - <mark>Indicate frequency (monthly data,yearly, etc)</mark>
       
 2.	Nova Scotia Open Data – Real Estate Transactions
     - Source: https://data.novascotia.ca
