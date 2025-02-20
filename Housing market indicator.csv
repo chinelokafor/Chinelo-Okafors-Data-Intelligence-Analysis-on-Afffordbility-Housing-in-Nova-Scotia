@@ -1,0 +1,17 @@
+﻿"New housing price index, monthly 1 2 3 4 5",,,,,
+Frequency: Monthly,,,,,
+Table: 18-10-0205-01 (formerly CANSIM 327-0056),,,,,
+Release date: 2025-01-24,,,,,
+"Geography: Canada, Geographical region of Canada, Province or territory, Census metropolitan area, Census agglomeration",,,,,
+,,,,,
+,,,,,
+,,,,,
+Geography,Canada,,,,
+New housing price indexes,Aug-24,Sep-24,Oct-24,Nov-24,Dec-24
+,"Index, 201612=100",,,,
+Total (house and land),125,125,124.5,124.6,124.5
+House only,128,128,127.3,127.4,127.3
+Land only,117.1E,117.0E,117.2E,117.3E,117.1E
+,,,,,
+Symbol legend:,,,,,
+E, use with caution,,,,
