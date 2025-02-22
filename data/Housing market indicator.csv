@@ -1,17 +1,13 @@
 ﻿"Average house prices",,,,,
-Frequency: Monthly,,,,,
-Table: 18-10-0205-01 (formerly CANSIM 327-0056),,,,,
-Release date: 2025-01-24,,,,,
 "Geography: Nova Scotia",,,,,
 ,,,,,
 ,,,,,
 ,,,,,
-Geography,Canada,,,,
-New housing price indexes,Aug-24,Sep-24,Oct-24,Nov-24,Dec-24
+Average house price,Aug-24,Sep-24,Oct-24,Nov-24,Dec-24
 
-Total (house and land),125,125,124.5,124.6,124.5
-House only,128,128,127.3,127.4,127.3
-Land only,117.1E,117.0E,117.2E,117.3E,117.1E
+Total (New house and Old house),125,125,124.5,124.6,124.5
+New House,128,128,127.3,127.4,127.3
+Old House,117.1E,117.0E,117.2E,117.3E,117.1E
 ,,,,,
 Symbol legend:,,,,,
 E, use with caution,,,,
