@@ -10,32 +10,32 @@ Housing affordability is a growing concern in Nova Scotia with rising home price
 
 ## Key Performance Indicators (KPIs)
 
-1. **Average House Prices** 
+1. **Average House Prices** - 
 Tracking average house prices within Nova Scotia helps assess market trends, affordability shifts and the impact of economic factors, guiding policymakers in making informed housing decisions.
   -	Target: Monitor annual price changes to identify affordability shifts.
   -	Measured quarterly based on regional data from Statistics Canada and other sources.
     
   
-2. **Rent-to-Income Ratio**
+2. **Rent-to-Income Ratio** -
 Monitoring the rent-to-income ratio highlights housing affordability challenges, supporting efforts to reduce financial strain on renters and improve access to affordable housing
 - Target: Reduce rent-to-income ratios in major cities.
 - The percentage of household income spent on rent, a critical measure of affordability.
 -	Calculated annually based on available household income and rent data.
 
   
-3. **Vacancy Rates**
+3. **Vacancy Rates** -
 Analyzing vacancy rates provides insights into rental supply and demand, helping identify regions that require targeted housing development and policy interventions.
 - Target: Identify areas with high vacancy rates that could benefit from increased rental development.
 - Measured monthly through real estate transaction data.
 
 
-4. **Home Ownership Rates**
+4. **Home Ownership Rates** -
 Tracking home ownership rates provides insights into housing accessibility, economic stability, and affordability trends, helping policymakers develop strategies to support sustainable homeownership.
 - The interest rates impacting homeownership affordability, reflecting broader economic conditions.
 - Target: Track changes annually to assess the impact of policies on homeownership growth.
 
 
-5. **Housing Supply**
+5. **Housing Supply** -
 Measuring annual housing supply against growing demand helps ensure adequate development, supporting strategic initiatives to meet the evolving needs of Nova Scotia’s residents.
 -  The number of new housing units built annually, assessing the adequacy of the supply to meet growing demand.
 - Action: Increase the rate of housing construction in high-demand areas.
