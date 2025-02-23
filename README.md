@@ -29,10 +29,10 @@ Analyzing vacancy rates provides insights into rental supply and demand, helping
 - Measured monthly through real estate transaction data.
 
 
-4. **Mortgage Rates**
-Evaluating mortgage rate trends reveals their impact on homeownership affordability, ensuring that financial policies align with sustainable housing accessibility.
+4. **Home Ownership Rates**
+Tracking home ownership rates provides insights into housing accessibility, economic stability, and affordability trends, helping policymakers develop strategies to support sustainable homeownership.
 - The interest rates impacting homeownership affordability, reflecting broader economic conditions.
-- Target: Track the impact of interest rate fluctuations on housing affordability.
+- Target: Track changes annually to assess the impact of policies on homeownership growth.
 
 
 5. **Housing Supply**
