@@ -16,13 +16,13 @@ Tracking average house prices within Nova Scotia helps assess market trends, aff
   -	Measured quarterly based on regional data from Statistics Canada and other sources.
     
   
-2. **Rent-to-Income Ratio** -
-Monitoring the rent-to-income ratio highlights housing affordability challenges, supporting efforts to reduce financial strain on renters and improve access to affordable housing
-- Target: Reduce rent-to-income ratios in major cities.
-- The percentage of household income spent on rent, a critical measure of affordability.
--	Calculated annually based on available household income and rent data.
+2. **Home Price-to-Income Ratio** -
+Measures the affordability of residential properties by comparing the median home sale price to the median household income of buyers. A higher ratio indicates lower affordability, meaning homes are more expensive relative to income.
+- Monitor changes in affordability trends over time (2020 vs. 2021).
+- Compare affodability across different buyer groups (First-time vs. Not First-time, Immigrants vs. Non-immigrants).
+-	Identify groups most affected by affordability constraints.
 
-  
+ 
 3. **Vacancy Rates** -
 Analyzing vacancy rates provides insights into rental supply and demand, helping identify regions that require targeted housing development and policy interventions.
 - Target: Identify areas with high vacancy rates that could benefit from increased rental development.
