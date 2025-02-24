@@ -39,3 +39,7 @@ Tracking home ownership rates provides insights into housing accessibility, econ
 Measuring annual housing supply against growing demand helps ensure adequate development, supporting strategic initiatives to meet the evolving needs of Nova Scotia’s residents.
 -  The number of new housing units built annually, assessing the adequacy of the supply to meet growing demand.
 - Action: Increase the rate of housing construction in high-demand areas.
+
+  # Analysis
+
+
