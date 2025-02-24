@@ -41,5 +41,5 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 - Action: Increase the rate of housing construction in high-demand areas.
 
   # Analysis
-
-
+![Average Housing Prices](img/AverageHousingPrices.png)
+  
