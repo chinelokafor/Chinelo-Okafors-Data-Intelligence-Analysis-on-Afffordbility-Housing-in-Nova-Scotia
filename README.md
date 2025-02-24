@@ -42,6 +42,6 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 
   # Analysis
 
-!Average Housing Prices] (https://github.com/chinelokafor/Term-Project/raw/main/Average%20Housing%20Prices.png)
+!Average Housing Prices] (https://example.com/AverageHousingPrices.png)
 
 
