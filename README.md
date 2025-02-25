@@ -40,7 +40,9 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 -  The number of new housing units built annually, assessing the adequacy of the supply to meet growing demand.
 - Action: Increase the rate of housing construction in high-demand areas.
 
-  # Analysis
+# Analysis
+
+![Average Housing Prices](Average_Housing_Prices.png)
 
 
 
