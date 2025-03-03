@@ -45,6 +45,7 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 ![Average Housing Prices](Average_Housing_Prices.png)
 
 ![RentIncomeRatio](Homepricetoincomeratio.png)
+![Homeowner] (Homeowner.png)
 
 
 
