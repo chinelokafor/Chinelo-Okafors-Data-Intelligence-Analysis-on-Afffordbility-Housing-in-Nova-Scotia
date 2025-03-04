@@ -46,6 +46,8 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 
 ![RentIncomeRatio](Homepricetoincomeratio.png)
 
+![Vacancyrates](Vacancyrates.png)
+
 ![Homeowner](Homeowner.png)
 
 ![Housingsupply](Housingsupply.png)
