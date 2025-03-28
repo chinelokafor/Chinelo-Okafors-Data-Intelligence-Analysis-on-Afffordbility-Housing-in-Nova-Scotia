@@ -53,7 +53,9 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 ![Housingsupply](Housingsupply.png)
 
 
-# Analysis of the Causal Impact of Residential Average Price on Housing Affordability in Nova Scotia**
+
+# Analysis of the Causal Impact of Residential Average Price on Housing Affordability in Nova Scotia
+
 
 # Introduction 
 This analysis explores the relationship between key housing affordability metrics in Nova Scotia using the following key performance index (KPI): average housing prices, home price-to-income ratio, vacancy rates, home ownership rates and housing supply while focusing on the causal impact of residential average price on the price-to-income ratio. By examining causal relationships, correlation patterns and employing causal inference techniques, the study aims to identify how changes in residential prices affect housing affordability while controlling for factors like median house price, vacancy rate, and new housing units (housing Supply). The findings are intended to shed light on the dynamics of the housing market and provide insights for improving housing affordability.
