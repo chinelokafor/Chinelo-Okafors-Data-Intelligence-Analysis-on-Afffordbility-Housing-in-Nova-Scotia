@@ -99,6 +99,10 @@ Vacancy rate affects price-to-income ratio through housing supply and residentia
 Higher vacancy rates might reduce housing prices, improving affordability.
 
 
+# Refutation Analysis
+The refutation analysis of the causal effect of residential average price on the price-to-income ratio yielded a p-value of 0.40. This suggests that fluctuations in residential average price may not have a meaningful or detectable impact on housing affordability as measured by the price-to-income ratio. The results imply that other confounding factors such as interest rates and income levels, might play a more dominant role in shaping affordability trends. 
+
+
 # Conclusion
 This analysis suggests that while residential average price has a theoretical impact on the price-to-income ratio, the estimated causal effect is extremely small and statistically insignificant with a value of 4.47e-6. The weak correlations observed in the heatmap between residential average price and affordability measures further support this finding. Additionally, while causal pathways indicate that higher vacancy rates may reduce prices and improve affordability, confounding factors such as interest rates and income levels may influence both residential average price and the price-to-income ratio, potentially biasing the results.
 
