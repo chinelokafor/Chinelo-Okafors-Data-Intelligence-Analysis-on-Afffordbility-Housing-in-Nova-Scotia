@@ -42,6 +42,9 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 
 # Analysis
 
+
+## Analysis of the KPI 
+
 ![Average Housing Prices](Average_Housing_Prices.png)
 
 ![RentIncomeRatio](Homepricetoincomeratio.png)
