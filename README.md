@@ -136,7 +136,7 @@ The matrix heatmap shows the relationships among residential average price and m
 The causal relationships shows that new housing units (housing supply) affects residential average price, which in turn influences the median house price and the price-to-income ratio. Higher residential average prices tend to worsen affordability (higher Price-to-Income Ratio) as prices rise.
 
 ![causalgraph](causalgraph.png)
-###### (c) Figure 2.2 - Causal Graph
+##### (c) Figure 2.2 - Causal Graph
 
 
 ##### (d) Causal Inference & Confounders
