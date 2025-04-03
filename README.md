@@ -8,6 +8,16 @@ Housing affordability is a growing concern in Nova Scotia with rising home price
 
 [Read detailed background information here](https://github.com/chinelokafor/Term-Project/blob/main/Background.md)
 
+
+## Research Objectives
+This study aims to:
+1.	Analyze trends in housing affordability across different regions in Canada, with a focus on key urban centers.
+2.	Identify the socioeconomic, market factors influencing housing affordability.
+3.	Assess the relationship between housing affordability and other social indicators such as income inequality and population growth.
+4.	Develop predictive models to project future housing affordability under various market conditions such as "Develop predictive models to project future housing affordability under various market conditions such as rising mortgage rates, fluctuating housing supply, shifts in rental demands, changes in household income levels etc. 
+5.	Provide recommendations for policy makers and stakeholders to improve housing affordability with a focus on long-term solutions that promote both market stability and social equity.
+
+
 ## Key Performance Indicators (KPIs)
 
 1. **Average House Prices** - 
@@ -40,8 +50,8 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 -  The number of new housing units built annually, assessing the adequacy of the supply to meet growing demand.
 - Action: Increase the rate of housing construction in high-demand areas.
 
-# Analysis
 
+# Data Analysis
 
 ## Analysis of the KPI 
 
@@ -56,6 +66,7 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 ![Housingsupply](Housingsupply.png)
 
 
+# Statistical Analysis
 
 ## Analysis of the Causal Impact of Residential Average Price on Housing Affordability in Nova Scotia
 
