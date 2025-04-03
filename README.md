@@ -21,7 +21,11 @@
    
     - [Housing Supply](Housing-Supply)
     
-4. 
+4. [Data Analysis](Data-Anlaysis)
+
+    - [Analysis of the KPI](Analysis-of-the-KPI)
+      
+      - [Figure 1.1 - Average Housing Prices](Figure-1.1-Average-Housing-Prices)
 
 ## Introduction
 Housing affordability is a growing concern in Nova Scotia with rising home prices, increasing rent burdens and challenging mortgage conditions creating barriers for many individuals and families seeking stable housing. This study utilizes modern data analysis tools including Python, Tableau and various statistical methods to explore housing affordability in Nova Scotia. The primary focus will be on factors such as home prices, rent-to-income ratios, vacancy rates and mortgage rates with the goal of providing actionable insights for policymakers, housing developers and stakeholders to address the housing affordability crisis.
@@ -76,23 +80,23 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 ### Analysis of the KPI 
 
 ![Average Housing Prices](Average_Housing_Prices.png)
-#### (a) Figure 1.1
+#### (a) Figure 1.1 - Average Housing Prices
 
 
 ![RentIncomeRatio](Homepricetoincomeratio.png)
-#### (b) Figure 1.2
+#### (b) Figure 1.2 - Home Price-to-Income Ratio
 
 
 ![Vacancyrates](Vacancyrates.png)
-#### (c) Figure 1.3
+#### (c) Figure 1.3 - Vacancy Rates
 
 
 ![Homeowner](Homeowner.png)
-#### (d) Figure 1.4
+#### (d) Figure 1.4 - Home Ownership Rates
 
 
 ![Housingsupply](Housingsupply.png)
-#### (e) Figure 1.5
+#### (e) Figure 1.5 - Housing Supply  
 
 
 ## Statistical Analysis
