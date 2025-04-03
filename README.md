@@ -10,6 +10,7 @@
 
 3.⁠ ⁠[Key Performance Indicators (KPIs)](#Key-Performance-Indicators)
 
+
     (a) [Average House Prices](Average-House-Prices)
    
     (b) [Home Price-to-Income Ratio](Home-Price-to-Income-Ratio)
