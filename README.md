@@ -21,6 +21,20 @@
     - [Analysis of the KPI](Analysis-of-the-KPI)
       
       - [Figure 1.1 - Average Housing Prices](Figure-1.1-Average-Housing-Prices)
+      - [Figure 1.2 - Home Price-to-Income Ratio](Figure-1.2-Home-Price-to-Income-Ratio)
+      - [Figure 1.3 - Vacancy Rates](Figure-1.3-Vacancy-Rates)
+      - [Figure 1.4 - Home Ownership Rates](Figure-1.4-Home-Ownership-Rates)
+      - [Figure 1.5 - Housing Supply](Figure-1.5-Housing-Supply)
+
+   -  [Statistical Analysis](Statistical-Analysis)
+
+      - [Analysis of the Causal Impact of Residential Average Price](Analysis of the Causal Impact of Residential Average Price)
+        - [Model Explanation](Model-Explanation)
+        - [Results](Results)
+         - [Correlation Matrix Heatmap](Correlation-Matrix-Heatmap)
+         - [Figure 2.1 - Matrix Heatmap](Figure-2.1-Matrix-Heatmap)
+         - [Figure 2.2 - Causal Graph](Figure-2.2-Causal-Graph)
+     
 
 ## Introduction
 Housing affordability is a growing concern in Nova Scotia with rising home prices, increasing rent burdens and challenging mortgage conditions creating barriers for many individuals and families seeking stable housing. This study utilizes modern data analysis tools including Python, Tableau and various statistical methods to explore housing affordability in Nova Scotia. The primary focus will be on factors such as home prices, rent-to-income ratios, vacancy rates and mortgage rates with the goal of providing actionable insights for policymakers, housing developers and stakeholders to address the housing affordability crisis.
@@ -99,46 +113,48 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 ### Analysis of the Causal Impact of Residential Average Price on Housing Affordability in Nova Scotia
 
 
-#### (a) Introduction 
+#### (a) Model Explanation
 This analysis explores the relationship between key housing affordability metrics in Nova Scotia using the following key performance index (KPI): average housing prices, home price-to-income ratio, vacancy rates, home ownership rates and housing supply while focusing on the causal impact of residential average price on the price-to-income ratio. By examining causal relationships, correlation patterns and employing causal inference techniques, the study aims to identify how changes in residential prices affect housing affordability while controlling for factors like median house price, vacancy rate, and new housing units (housing Supply). The findings are intended to shed light on the dynamics of the housing market and provide insights for improving housing affordability.
 
 
-#### (b) Correlation Matrix Heatmap
+#### (b) Results
+
+##### Correlation Matrix Heatmap
 The matrix heatmap shows the relationships among residential average price and median house price where it shows a moderate negative correlation of -0.35, meaning when one price metric increases, the other tends to decrease slightly, possibly indicating differences between the median and average prices. It also highlights Price-to-Income Ratio is negatively correlated with Residential Average Price (-0.31) and strongly negatively correlated with Vacancy Rate (-0.55). This suggests that as housing prices increase, affordability decreases, and higher vacancy rates might indicate lower affordability or market supply issues.
 •	Vacancy Rate is positively correlated with Housing Units (housing supply) (0.35), suggesting that areas with more housing supply may experience lower vacancy rates, aligning with expectations in more competitive housing markets.
 •	Housing Units has a weak correlation with other factors like Price-to-Income Ratio (0.14) and Median House Price (-0.01), showing that the number of housing units does not have a strong direct relationship with these measures, despite the causal inference diagram indicating a potential effect on prices.
 
 ![matrixheatmap](matrixheatmap.png)
-##### (a) Figure 2.1
+###### (a) Figure 2.1 - Matrix Heatmap
 
 
-#### (c) Causal Graph
+##### (c) Causal Graph
 The causal relationships shows that new housing units (housing supply) affects residential average price, which in turn influences the median house price and the price-to-income ratio. Higher residential average prices tend to worsen affordability (higher Price-to-Income Ratio) as prices rise.
 
 ![causalgraph](causalgraph.png)
-##### (a) Figure 2.2
+###### (a) Figure 2.2 - Causal Graph
 
 
-#### (d) Causal Inference & Confounders
+##### (d) Causal Inference & Confounders
 •	Confounders like interest rates and inflation could bias the results, affecting both prices and affordability.
 •	The correlation matrix suggests potential indirect relationships but confounders such as income levels or interest rates should be considered for clearer causal inference.
 
 
-#### (e) Causal Estimand
+##### (e) Causal Estimand
 The causal estimand models the effect of residential average price on the price-to-income ratio, controlling for median house price, vacancy rate, and new housing units (housing supply) using a backdoor criterion.
 
 
-#### (f) Realized Estimand
+##### (f) Realized Estimand
 The realized estimand is specified as a linear regression model:
 Price-to-Income Ratio ~ Residential Average Price + Vacancy Rate (%) + New Housing Unit (housing supply) + Median House Price ($).
 This indicates that residential average price is being assessed for its effect on price-to-income ratio, adjusting for other factors (confounders).
 
 
-#### (g)  Estimate of Causal Effect
+##### (g)  Estimate of Causal Effect
 The mean estimate of the causal effect is 4.47×10−64.47 \times 10^ {-6}4.47×10−6, which suggests that the causal effect of residential average price on price-to-income ratio is very small, possibly negligible given the scale of the effect. This result indicates that the residential average price may have a minimal impact on the price-to-income ratio, or that the data does not provide sufficient variation or observations to detect a stronger effect.
 
 
-#### (h) Potential Causal Pathways
+##### (h) Potential Causal Pathways
 Vacancy rate affects price-to-income ratio through housing supply and residential average price.
 Higher vacancy rates might reduce housing prices, improving affordability.
 
