@@ -34,7 +34,8 @@
   - [References](#references)
 
 ## Introduction
-Housing affordability is a growing concern in Nova Scotia with rising home prices, increasing rent burdens and challenging mortgage conditions creating barriers for many individuals and families seeking stable housing. This study utilizes modern data analysis tools including Python, Tableau and various statistical methods to explore housing affordability in Nova Scotia. The primary focus will be on factors such as home prices, rent-to-income ratios, vacancy rates and mortgage rates with the goal of providing actionable insights for policymakers, housing developers and stakeholders to address the housing affordability crisis.
+Housing affordability has become an increasingly pressing issue in Nova Scotia, as rising home prices, escalating rent burdens and challenging mortgage conditions continue to create barriers for individuals and families seeking stable housing. This study employs modern data analysis tools including Python and Tableau to critically examine housing affordability trends within the province. By exploring key factors such as home prices, rent-to-income ratios, vacancy rates and supply rates, this research aims to provide actionable insights for policymakers, housing developers and stakeholders. 
+The ultimate goal is to inform strategic decisions that address the housing affordability crisis and promote equitable access to stable housing.
 
 [Read detailed background information here](https://github.com/chinelokafor/Term-Project/blob/main/Background.md)
 
@@ -161,7 +162,8 @@ The refutation analysis of the causal effect of residential average price on the
 
 
 ## Conclusion
-This analysis suggests that while residential average price has a theoretical impact on the price-to-income ratio, the estimated causal effect is extremely small and statistically insignificant with a value of 4.47e-6. The weak correlations observed in the heatmap between residential average price and affordability measures further support this finding. Additionally, while causal pathways indicate that higher vacancy rates may reduce prices and improve affordability, confounding factors such as interest rates and income levels may influence both residential average price and the price-to-income ratio, potentially biasing the results.
+This study underscores the complex and multifaceted nature of housing affordability in Nova Scotia. Through a data-driven approach, key affordability challenges including rising home prices, limited housing supply and disproportionate rent-to-income ratios have been analyzed to provide meaningful insights. Findings suggest that targeted policies, increased housing development and affordability-focused financial strategies are crucial in mitigating these challenges. While the causal impact of residential pricing on affordability appears statistically minimal, broader market forces such as income levels, interest rates and vacancy rates play a significant role in shaping affordability outcomes. 
+Addressing housing affordability demands a collaborative effort from policymakers, developers and community stakeholders to foster long-term solutions that ensure equitable access to housing for all residents.
 
 
 ## References
