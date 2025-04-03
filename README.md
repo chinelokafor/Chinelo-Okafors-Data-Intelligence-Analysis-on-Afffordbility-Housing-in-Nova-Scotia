@@ -3,6 +3,13 @@
 
 *By: Chinelo Okafor*
 
+## Table of Content
+1.⁠ ⁠[Introduction](#Introduction)
+2.⁠ ⁠[Research Objectives](#research-objectives)
+3.⁠ ⁠[Key Performance Indicators (KPIs)](#Key-Performance-Indicators-(KPIs))
+4. [Data Analysis](Data-Analysis)
+    [Average House Prices](Average-House-Prices)
+
 ## Introduction
 Housing affordability is a growing concern in Nova Scotia with rising home prices, increasing rent burdens and challenging mortgage conditions creating barriers for many individuals and families seeking stable housing. This study utilizes modern data analysis tools including Python, Tableau and various statistical methods to explore housing affordability in Nova Scotia. The primary focus will be on factors such as home prices, rent-to-income ratios, vacancy rates and mortgage rates with the goal of providing actionable insights for policymakers, housing developers and stakeholders to address the housing affordability crisis.
 
