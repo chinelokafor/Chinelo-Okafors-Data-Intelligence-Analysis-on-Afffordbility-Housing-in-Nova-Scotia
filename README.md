@@ -4,11 +4,11 @@
 *By: Chinelo Okafor*
 
 ## Table of Content
-1.⁠ ⁠[Introduction](#Introduction)
+1. [Introduction](#Introduction)
 
-2.⁠ ⁠[Research Objectives](#research-objectives)
+2. [Research Objectives](#research-objectives)
 
-3.⁠ ⁠[Key Performance Indicators (KPIs)](#Key-Performance-Indicators)
+3. [Key Performance Indicators (KPIs)](#Key-Performance-Indicators)
 
    - [Average House Prices](Average-House-Prices)
    - [Home Price-to-Income Ratio](Home-Price-to-Income-Ratio)
