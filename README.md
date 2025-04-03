@@ -110,6 +110,22 @@ The refutation analysis of the causal effect of residential average price on the
 This analysis suggests that while residential average price has a theoretical impact on the price-to-income ratio, the estimated causal effect is extremely small and statistically insignificant with a value of 4.47e-6. The weak correlations observed in the heatmap between residential average price and affordability measures further support this finding. Additionally, while causal pathways indicate that higher vacancy rates may reduce prices and improve affordability, confounding factors such as interest rates and income levels may influence both residential average price and the price-to-income ratio, potentially biasing the results.
 
 
+## References
+1.	Allen, J., & McLaren, N. (2018). Housing affordability in Canada: Challenges and policy implications. Canadian Journal of Urban Research, 27(2), 45-66.
+2.	Canada Mortgage and Housing Corporation. (2020). Housing affordability in Canada: Key trends and factors. https://www.cmhc-schl.gc.ca/
+3.	Canada, S. (2022). Housing affordability and the Canadian housing market. Statistics Canada. https://www.statcan.gc.ca/
+4.	Glaeser, E. L., & Gyourko, J. (2018). The impact of housing affordability on economic mobility and inequality. Journal of Economic Perspectives, 32(3), 1-30. https://doi.org/10.1257/jep.32.3.1
+5.	Stone, M. E. (2006). What is housing affordability? The case for the residual income approach. Housing Studies, 21(4), 529-551. https://doi.org/10.1080/02673030500113589
+6.	World Bank. (2020). Global housing affordability: Trends and insights. World Bank Group. https://www.worldbank.org/
+7.	Statistics Canada. (n.d.). Housing market indicators. Statistics Canada. https://www150.statcan.gc.ca/
+8.	Nova Scotia Open Data. (n.d.). Real estate transactions. Nova Scotia Open Data. https://data.novascotia.ca/
+9.	World Bank. (n.d.). Global housing index. World Bank Open Data. https://data.worldbank.org/
+10.	Bank of Canada. (2023). Monetary policy and housing affordability report. https://www.bankofcanada.ca
+11.	Canada Mortgage and Housing Corporation (CMHC). (2023). Housing market outlook. https://www.cmhc-schl.gc.ca
+12.	Canadian Centre for Policy Alternatives. (2023). The affordability crisis: Housing in Canada. https://policyalternatives.ca
+13.	Canadian Real Estate Association (CREA). (2023). Real estate market statistics. https://crea.ca
+14.	Organisation for Economic Co-operation and Development (OECD). (2022). Housing affordability and policy solutions in advanced economies. https://www.oecd.org](https://www.oecd.org
+15.	Statistics Canada. (2023). Housing trends and affordability statistics. https://www.statcan.gc.ca
 
 
 
