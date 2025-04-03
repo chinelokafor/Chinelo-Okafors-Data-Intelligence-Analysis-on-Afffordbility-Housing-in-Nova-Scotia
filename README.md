@@ -4,41 +4,34 @@
 *By: Chinelo Okafor*
 
 ## Table of Content
-1. [Introduction](#Introduction)
-
-2. [Research Objectives](#research-objectives)
-
-3. [Key Performance Indicators (KPIs)](#Key-Performance-Indicators)
-
-   - [Average House Prices](Average-House-Prices)
-   - [Home Price-to-Income Ratio](Home-Price-to-Income-Ratio)
-   - [Vacancy Rates](Vacancy-Rates)
-   - [Home Ownership Rates](Home-Ownership-Rates)
-   - [Housing Supply](Housing-Supply)
-   
-4. [Data Analysis](Data-Anlaysis)
-
-   - [Analysis of the KPI](Analysis-of-the-KPI)
-      
-      - [Figure 1.1 - Average Housing Prices](img/Figure-1.1-Average-Housing-Prices)
-      - [Figure 1.2 - Home Price-to-Income Ratio](Figure-1.2-Home-Price-to-Income-Ratio)
-      - [Figure 1.3 - Vacancy Rates](Figure-1.3-Vacancy-Rates)
-      - [Figure 1.4 - Home Ownership Rates](Figure-1.4-Home-Ownership-Rates)
-      - [Figure 1.5 - Housing Supply](Figure-1.5-Housing-Supply)
-
-   - [Statistical Analysis](Statistical-Analysis)
-
-      - [The Causal Impact of Residential Average Price](The-Causal-Impact-of-Residential-Average-Price)
-        - [Model Explanation](Model-Explanation)
-        - [Results](Results)
-         - [Figure 2.1 - Matrix Heatmap](Figure-2.1-Matrix-Heatmap)
-         - [Figure 2.2 - Causal Graph](Figure-2.2-Causal-Graph)
-
-   - [Refutation Analysis](Refutation-Analysis)
-
-5. [Conclusion](Conclusion) 
-   
-6. [References](References)
+- [Housing Affordability: A Critical Analysis](#housing-affordability-a-critical-analysis)
+  - [Table of Content](#table-of-content)
+  - [Introduction](#introduction)
+  - [Research Objectives](#research-objectives)
+  - [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+  - [Data Analysis](#data-analysis)
+    - [Analysis of the KPI](#analysis-of-the-kpi)
+      - [(a) Figure 1.1 - Average Housing Prices](#a-figure-11---average-housing-prices)
+      - [(b) Figure 1.2 - Home Price-to-Income Ratio](#b-figure-12---home-price-to-income-ratio)
+      - [(c) Figure 1.3 - Vacancy Rates](#c-figure-13---vacancy-rates)
+      - [(d) Figure 1.4 - Home Ownership Rates](#d-figure-14---home-ownership-rates)
+      - [(e) Figure 1.5 - Housing Supply](#e-figure-15---housing-supply)
+  - [Statistical Analysis](#statistical-analysis)
+    - [The Causal Impact of Residential Average Price on Housing Affordability in Nova Scotia](#the-causal-impact-of-residential-average-price-on-housing-affordability-in-nova-scotia)
+      - [(a) Model Explanation](#a-model-explanation)
+      - [(b) Results](#b-results)
+        - [(a) Correlation Matrix Heatmap](#a-correlation-matrix-heatmap)
+          - [Figure 2.1 - Matrix Heatmap](#figure-21---matrix-heatmap)
+        - [(b) Causal Graph](#b-causal-graph)
+          - [Figure 2.2 - Causal Graph](#figure-22---causal-graph)
+        - [(c) Causal Inference \& Confounders](#c-causal-inference--confounders)
+        - [(d) Causal Estimand](#d-causal-estimand)
+        - [(e) Realized Estimand](#e-realized-estimand)
+        - [(f)  Estimate of Causal Effect](#f--estimate-of-causal-effect)
+        - [(g) Potential Causal Pathways](#g-potential-causal-pathways)
+  - [Refutation Analysis](#refutation-analysis)
+  - [Conclusion](#conclusion)
+  - [References](#references)
 
 ## Introduction
 Housing affordability is a growing concern in Nova Scotia with rising home prices, increasing rent burdens and challenging mortgage conditions creating barriers for many individuals and families seeking stable housing. This study utilizes modern data analysis tools including Python, Tableau and various statistical methods to explore housing affordability in Nova Scotia. The primary focus will be on factors such as home prices, rent-to-income ratios, vacancy rates and mortgage rates with the goal of providing actionable insights for policymakers, housing developers and stakeholders to address the housing affordability crisis.
@@ -92,23 +85,23 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 
 ### Analysis of the KPI 
 
-![Average Housing Prices](Average_Housing_Prices.png)
+![Average Housing Prices](img/Average_Housing_Prices.png)
 #### (a) Figure 1.1 - Average Housing Prices
 
 
-![RentIncomeRatio](Homepricetoincomeratio.png)
+![RentIncomeRatio](img/Homepricetoincomeratio.png)
 #### (b) Figure 1.2 - Home Price-to-Income Ratio
 
 
-![Vacancyrates](Vacancyrates.png)
+![Vacancyrates](img/Vacancyrates.png)
 #### (c) Figure 1.3 - Vacancy Rates
 
 
-![Homeowner](Homeowner.png)
+![Homeowner](img/Homeowner.png)
 #### (d) Figure 1.4 - Home Ownership Rates
 
 
-![Housingsupply](Housingsupply.png)
+![Housingsupply](img/Housingsupply.png)
 #### (e) Figure 1.5 - Housing Supply  
 
 
@@ -128,14 +121,14 @@ The matrix heatmap shows the relationships among residential average price and m
 •	Vacancy Rate is positively correlated with Housing Units (housing supply) (0.35), suggesting that areas with more housing supply may experience lower vacancy rates, aligning with expectations in more competitive housing markets.
 •	Housing Units has a weak correlation with other factors like Price-to-Income Ratio (0.14) and Median House Price (-0.01), showing that the number of housing units does not have a strong direct relationship with these measures, despite the causal inference diagram indicating a potential effect on prices.
 
-![matrixheatmap](matrixheatmap.png)
+![matrixheatmap](img/matrixheatmap.png)
 ###### Figure 2.1 - Matrix Heatmap
 
 
 ##### (b) Causal Graph
 The causal relationships shows that new housing units (housing supply) affects residential average price, which in turn influences the median house price and the price-to-income ratio. Higher residential average prices tend to worsen affordability (higher Price-to-Income Ratio) as prices rise.
 
-![causalgraph](causalgraph.png)
+![causalgraph](img/causalgraph.png)
 ######  Figure 2.2 - Causal Graph
 
 
