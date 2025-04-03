@@ -5,9 +5,13 @@
 
 ## Table of Content
 1.⁠ ⁠[Introduction](#Introduction)
+
 2.⁠ ⁠[Research Objectives](#research-objectives)
+
 3.⁠ ⁠[Key Performance Indicators (KPIs)](#Key-Performance-Indicators-(KPIs))
+
 4. [Data Analysis](Data-Analysis)
+   
     [Average House Prices](Average-House-Prices)
 
 ## Introduction
