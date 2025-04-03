@@ -10,7 +10,7 @@
 
 3.⁠ ⁠[Key Performance Indicators (KPIs)](#Key-Performance-Indicators-(KPIs))
 
-4. [Data Analysis](Data-Analysis)
+4. [Data Analysis](#Data-Analysis)
    
     [Average House Prices](Average-House-Prices)
 
