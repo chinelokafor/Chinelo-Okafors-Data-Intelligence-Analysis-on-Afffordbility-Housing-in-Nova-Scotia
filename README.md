@@ -20,7 +20,7 @@
 
    - [Analysis of the KPI](Analysis-of-the-KPI)
       
-    - [Figure 1.1 - Average Housing Prices](Figure-1.1-Average-Housing-Prices)
+      - [Figure 1.1 - Average Housing Prices](Figure-1.1-Average-Housing-Prices)
       - [Figure 1.2 - Home Price-to-Income Ratio](Figure-1.2-Home-Price-to-Income-Ratio)
       - [Figure 1.3 - Vacancy Rates](Figure-1.3-Vacancy-Rates)
       - [Figure 1.4 - Home Ownership Rates](Figure-1.4-Home-Ownership-Rates)
@@ -28,7 +28,7 @@
 
    - [Statistical Analysis](Statistical-Analysis)
 
-      - [Analysis of the Causal Impact of Residential Average Price](Analysis-of-the-Causal-Impact-of-Residential-Average-Price)
+      - [The Causal Impact of Residential Average Price](The-Causal-Impact-of-Residential-Average-Price)
         - [Model Explanation](Model-Explanation)
         - [Results](Results)
          - [Figure 2.1 - Matrix Heatmap](Figure-2.1-Matrix-Heatmap)
@@ -114,7 +114,7 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 
 ## Statistical Analysis
 
-### Analysis of the Causal Impact of Residential Average Price on Housing Affordability in Nova Scotia
+### The Causal Impact of Residential Average Price on Housing Affordability in Nova Scotia
 
 
 #### (a) Model Explanation
