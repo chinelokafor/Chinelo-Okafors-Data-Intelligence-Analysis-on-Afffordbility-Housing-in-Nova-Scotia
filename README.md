@@ -139,26 +139,26 @@ The causal relationships shows that new housing units (housing supply) affects r
 ######  Figure 2.2 - Causal Graph
 
 
-##### (d) Causal Inference & Confounders
+##### (c) Causal Inference & Confounders
 •	Confounders like interest rates and inflation could bias the results, affecting both prices and affordability.
 •	The correlation matrix suggests potential indirect relationships but confounders such as income levels or interest rates should be considered for clearer causal inference.
 
 
-##### (e) Causal Estimand
+##### (d) Causal Estimand
 The causal estimand models the effect of residential average price on the price-to-income ratio, controlling for median house price, vacancy rate, and new housing units (housing supply) using a backdoor criterion.
 
 
-##### (f) Realized Estimand
+##### (e) Realized Estimand
 The realized estimand is specified as a linear regression model:
 Price-to-Income Ratio ~ Residential Average Price + Vacancy Rate (%) + New Housing Unit (housing supply) + Median House Price ($).
 This indicates that residential average price is being assessed for its effect on price-to-income ratio, adjusting for other factors (confounders).
 
 
-##### (g)  Estimate of Causal Effect
+##### (f)  Estimate of Causal Effect
 The mean estimate of the causal effect is 4.47×10−64.47 \times 10^ {-6}4.47×10−6, which suggests that the causal effect of residential average price on price-to-income ratio is very small, possibly negligible given the scale of the effect. This result indicates that the residential average price may have a minimal impact on the price-to-income ratio, or that the data does not provide sufficient variation or observations to detect a stronger effect.
 
 
-##### (h) Potential Causal Pathways
+##### (g) Potential Causal Pathways
 Vacancy rate affects price-to-income ratio through housing supply and residential average price.
 Higher vacancy rates might reduce housing prices, improving affordability.
 
