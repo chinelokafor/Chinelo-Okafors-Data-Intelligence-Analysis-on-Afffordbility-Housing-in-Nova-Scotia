@@ -55,15 +55,20 @@ Measuring annual housing supply against growing demand helps ensure adequate dev
 
 ### Analysis of the KPI 
 
-#### (a) ![Average Housing Prices](Average_Housing_Prices.png)
+![Average Housing Prices](Average_Housing_Prices.png)
+#### (a) Figure 1.1
 
 ![RentIncomeRatio](Homepricetoincomeratio.png)
+#### (a) Figure 1.2
 
 ![Vacancyrates](Vacancyrates.png)
+#### (a) Figure 1.3
 
 ![Homeowner](Homeowner.png)
+#### (a) Figure 1.4
 
 ![Housingsupply](Housingsupply.png)
+#### (a) Figure 1.5
 
 
 ## Statistical Analysis
@@ -81,12 +86,14 @@ The matrix heatmap shows the relationships among residential average price and m
 •	Housing Units has a weak correlation with other factors like Price-to-Income Ratio (0.14) and Median House Price (-0.01), showing that the number of housing units does not have a strong direct relationship with these measures, despite the causal inference diagram indicating a potential effect on prices.
 
 ![matrixheatmap](matrixheatmap.png)
+#### (a) Figure 2.1
 
 
 #### (c) Causal Graph
 The causal relationships shows that new housing units (housing supply) affects residential average price, which in turn influences the median house price and the price-to-income ratio. Higher residential average prices tend to worsen affordability (higher Price-to-Income Ratio) as prices rise.
 
 ![causalgraph](causalgraph.png)
+#### (a) Figure 2.2
 
 
 #### (d) Causal Inference & Confounders
