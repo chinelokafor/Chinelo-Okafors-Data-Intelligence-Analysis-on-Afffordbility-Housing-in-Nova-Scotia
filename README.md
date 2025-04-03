@@ -123,13 +123,13 @@ This analysis explores the relationship between key housing affordability metric
 
 #### (b) Results
 
-##### Correlation Matrix Heatmap
+##### (a) Correlation Matrix Heatmap
 The matrix heatmap shows the relationships among residential average price and median house price where it shows a moderate negative correlation of -0.35, meaning when one price metric increases, the other tends to decrease slightly, possibly indicating differences between the median and average prices. It also highlights Price-to-Income Ratio is negatively correlated with Residential Average Price (-0.31) and strongly negatively correlated with Vacancy Rate (-0.55). This suggests that as housing prices increase, affordability decreases, and higher vacancy rates might indicate lower affordability or market supply issues.
 •	Vacancy Rate is positively correlated with Housing Units (housing supply) (0.35), suggesting that areas with more housing supply may experience lower vacancy rates, aligning with expectations in more competitive housing markets.
 •	Housing Units has a weak correlation with other factors like Price-to-Income Ratio (0.14) and Median House Price (-0.01), showing that the number of housing units does not have a strong direct relationship with these measures, despite the causal inference diagram indicating a potential effect on prices.
 
 ![matrixheatmap](matrixheatmap.png)
-###### (a) Figure 2.1 - Matrix Heatmap
+###### Figure 2.1 - Matrix Heatmap
 
 
 ##### (b) Causal Graph
