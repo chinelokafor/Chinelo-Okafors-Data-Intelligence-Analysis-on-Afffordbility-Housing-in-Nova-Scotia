@@ -18,7 +18,7 @@
    
 4. [Data Analysis](Data-Anlaysis)
 
-    - [Analysis of the KPI](Analysis-of-the-KPI)
+   - [Analysis of the KPI](Analysis-of-the-KPI)
       
       - [Figure 1.1 - Average Housing Prices](Figure-1.1-Average-Housing-Prices)
       - [Figure 1.2 - Home Price-to-Income Ratio](Figure-1.2-Home-Price-to-Income-Ratio)
