@@ -26,7 +26,7 @@
       - [Figure 1.4 - Home Ownership Rates](Figure-1.4-Home-Ownership-Rates)
       - [Figure 1.5 - Housing Supply](Figure-1.5-Housing-Supply)
 
-5. [Statistical Analysis](Statistical-Analysis)
+   - [Statistical Analysis](Statistical-Analysis)
 
       - [Analysis of the Causal Impact of Residential Average Price](Analysis-of-the-Causal-Impact-of-Residential-Average-Price)
         - [Model Explanation](Model-Explanation)
@@ -34,11 +34,11 @@
          - [Figure 2.1 - Matrix Heatmap](Figure-2.1-Matrix-Heatmap)
          - [Figure 2.2 - Causal Graph](Figure-2.2-Causal-Graph)
 
-6. [Refutation Analysis](Refutation-Analysis)
+   - [Refutation Analysis](Refutation-Analysis)
 
-7. [Conclusion](Conclusion) 
+5. [Conclusion](Conclusion) 
    
-8. [References](References)
+6. [References](References)
 
 ## Introduction
 Housing affordability is a growing concern in Nova Scotia with rising home prices, increasing rent burdens and challenging mortgage conditions creating barriers for many individuals and families seeking stable housing. This study utilizes modern data analysis tools including Python, Tableau and various statistical methods to explore housing affordability in Nova Scotia. The primary focus will be on factors such as home prices, rent-to-income ratios, vacancy rates and mortgage rates with the goal of providing actionable insights for policymakers, housing developers and stakeholders to address the housing affordability crisis.
