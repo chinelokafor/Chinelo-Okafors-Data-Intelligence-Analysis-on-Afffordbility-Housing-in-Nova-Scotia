@@ -8,7 +8,7 @@
 
 2.⁠ ⁠[Research Objectives](#research-objectives)
 
-3.⁠ ⁠[Key Performance Indicators (KPIs)](#Key-Performance-Indicators-(KPIs))
+3.⁠ ⁠[Key Performance Indicators (KPIs)](#Key-Performance-Indicators)
 
 4. [Data Analysis](#Data-Analysis)
 
