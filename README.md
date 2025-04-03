@@ -11,15 +11,15 @@
 3.⁠ ⁠[Key Performance Indicators (KPIs)](#Key-Performance-Indicators)
 
 
-    (a) [Average House Prices](Average-House-Prices)
+    - (a) [Average House Prices](Average-House-Prices)
    
-    (b) [Home Price-to-Income Ratio](Home-Price-to-Income-Ratio)
+    - (b) [Home Price-to-Income Ratio](Home-Price-to-Income-Ratio)
    
-    (c)[Vacancy Rates](Vacancy-Rates)
+    - (c)[Vacancy Rates](Vacancy-Rates)
    
-    (d) [Home Ownership Rates](Home-Ownership-Rates)
+    - (d) [Home Ownership Rates](Home-Ownership-Rates)
    
-    (e) [Housing Supply](Housing-Supply)
+    - (e) [Housing Supply](Housing-Supply)
     
 4. 
 
