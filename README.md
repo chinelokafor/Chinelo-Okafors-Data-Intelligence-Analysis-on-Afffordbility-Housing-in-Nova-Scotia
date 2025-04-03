@@ -13,9 +13,13 @@
 4. [Data Analysis](#Data-Analysis)
 
     (a) [Average House Prices](Average-House-Prices)
+   
     (b) [Home Price-to-Income Ratio](Home-Price-to-Income-Ratio)
+   
     (c)[Vacancy Rates](Vacancy-Rates)
+   
     (d) [Home Ownership Rates](Home-Ownership-Rates)
+   
     (e) [Housing Supply](Housing-Supply)
 
 ## Introduction
