@@ -34,8 +34,9 @@
   - [References](#references)
 
 ## Introduction
-Housing affordability has become an increasingly pressing issue in Nova Scotia, as rising home prices, escalating rent burdens and challenging mortgage conditions continue to create barriers for individuals and families seeking stable housing. This study employs modern data analysis tools including Python and Tableau to critically examine housing affordability trends within the province. By exploring key factors such as home prices, rent-to-income ratios, vacancy rates and supply rates, this research aims to provide actionable insights for policymakers, housing developers and stakeholders. 
-The ultimate goal is to inform strategic decisions that address the housing affordability crisis and promote equitable access to stable housing.
+Housing affordability has become an increasingly urgent issue in Nova Scotia with rising home prices, growing rent burdens and limited housing supply making it difficult for individuals and families to secure stable housing. Various socioeconomic factors, including income disparities and regional housing demand, contribute to the affordability challenges faced by residents. In recent years, concerns about housing accessibility have intensified, prompting a need for deeper insights into the trends shaping the housing market. Understanding these dynamics is crucial for developing strategies that enhance affordability and improve housing stability across the province.
+
+This study employs modern data analysis tools like Python and Tableau to critically examine housing affordability trends within Nova Scotia. By analyzing key factors such as home prices, rent-to-income ratios, vacancy rates and housing supply levels, this research provides data-driven insights into the challenges affecting affordability. Through visualization techniques and statistical analysis, the study aims to support informed policymaking, guide housing development strategies and contribute to a broader understanding of affordability trends. The ultimate goal is to generate actionable findings that promote equitable access to housing and foster long-term market stability for Nova Scotia residents.
 
 [Read detailed background information here](https://github.com/chinelokafor/Term-Project/blob/main/Background.md)
 
